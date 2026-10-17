@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b215f740-2c91-4b91-8430-f2b8d0df8d18",
+  "path": "explore-codebase-2",
+  "path_key": "explore-codebase-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

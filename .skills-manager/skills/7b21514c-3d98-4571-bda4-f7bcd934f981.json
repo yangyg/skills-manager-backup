@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7b21514c-3d98-4571-bda4-f7bcd934f981",
+  "path": "high-end-visual-design",
+  "path_key": "high-end-visual-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

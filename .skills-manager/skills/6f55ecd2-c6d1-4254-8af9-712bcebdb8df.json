@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6f55ecd2-c6d1-4254-8af9-712bcebdb8df",
+  "path": "fullstack-dev",
+  "path_key": "fullstack-dev",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

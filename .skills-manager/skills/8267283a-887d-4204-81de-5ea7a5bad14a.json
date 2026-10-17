@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8267283a-887d-4204-81de-5ea7a5bad14a",
+  "path": "hallmark",
+  "path_key": "hallmark",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

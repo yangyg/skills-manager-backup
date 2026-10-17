@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "711227cb-9092-4f33-8d6d-eadff9f89032",
+  "path": "speckit",
+  "path_key": "speckit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

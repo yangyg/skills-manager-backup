@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3a0ce09d-ee61-4769-bb8e-595852e19501",
+  "path": "beatra-ai-video-studio",
+  "path_key": "beatra-ai-video-studio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

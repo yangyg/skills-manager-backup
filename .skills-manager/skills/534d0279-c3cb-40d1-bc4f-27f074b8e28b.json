@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "534d0279-c3cb-40d1-bc4f-27f074b8e28b",
+  "path": "frontend-ui-engineering",
+  "path_key": "frontend-ui-engineering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

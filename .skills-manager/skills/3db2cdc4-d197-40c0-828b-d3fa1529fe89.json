@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3db2cdc4-d197-40c0-828b-d3fa1529fe89",
+  "path": "oil-ui",
+  "path_key": "oil-ui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

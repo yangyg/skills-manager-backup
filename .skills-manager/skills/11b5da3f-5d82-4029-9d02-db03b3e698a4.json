@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "11b5da3f-5d82-4029-9d02-db03b3e698a4",
+  "path": "debug-issue-2",
+  "path_key": "debug-issue-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

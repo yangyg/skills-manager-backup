@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1879e4c-4560-4444-9a1d-243e027a74e9",
+  "path": "documentation-and-adrs",
+  "path_key": "documentation-and-adrs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dd84b32b-578a-4e20-a810-d559cc816466",
+  "path": "aihot",
+  "path_key": "aihot",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

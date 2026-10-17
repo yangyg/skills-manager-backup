@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b25760a-4fdc-4e42-b809-b2a7dc6180f7",
+  "path": "doubt-driven-development",
+  "path_key": "doubt-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

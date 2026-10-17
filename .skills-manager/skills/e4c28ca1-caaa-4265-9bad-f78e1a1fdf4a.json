@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e4c28ca1-caaa-4265-9bad-f78e1a1fdf4a",
+  "path": "browser-testing-with-devtools",
+  "path_key": "browser-testing-with-devtools",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

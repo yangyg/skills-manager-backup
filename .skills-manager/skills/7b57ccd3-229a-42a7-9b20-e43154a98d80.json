@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7b57ccd3-229a-42a7-9b20-e43154a98d80",
+  "path": "teamai",
+  "path_key": "teamai",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

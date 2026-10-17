@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "923c4745-b3db-4a3b-9894-14b8b1f34009",
+  "path": "performance-optimization",
+  "path_key": "performance-optimization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

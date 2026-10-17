@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce07684a-bff2-4071-8ba8-987287d41f6e",
+  "path": "stitch-design-taste",
+  "path_key": "stitch-design-taste",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

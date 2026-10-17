@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b7216366-2ac2-44b0-8a85-3a9e37a22c00",
+  "path": "use-modern-go",
+  "path_key": "use-modern-go",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

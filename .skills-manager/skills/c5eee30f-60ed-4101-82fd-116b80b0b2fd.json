@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5eee30f-60ed-4101-82fd-116b80b0b2fd",
+  "path": "speckit-checklist",
+  "path_key": "speckit-checklist",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

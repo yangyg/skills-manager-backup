@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b86f6023-d264-4cae-9b1d-6aae3a4b7ab9",
+  "path": "design-system",
+  "path_key": "design-system",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

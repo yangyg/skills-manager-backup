@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "354a2e05-e7a4-4ea5-a1b2-b9e751028d3c",
+  "path": "observability-and-instrumentation",
+  "path_key": "observability-and-instrumentation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

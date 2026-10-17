@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d05e10e-2d43-4962-9274-fa43936f5e79",
+  "path": "gpui",
+  "path_key": "gpui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

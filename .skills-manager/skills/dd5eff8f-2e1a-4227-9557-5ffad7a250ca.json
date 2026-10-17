@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dd5eff8f-2e1a-4227-9557-5ffad7a250ca",
+  "path": "refactor-safely",
+  "path_key": "refactor-safely",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

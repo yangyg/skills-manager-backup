@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e06d071-b471-4b07-ab83-de8f1960510a",
+  "path": "mattpocock-skills__skillhub",
+  "path_key": "mattpocock-skills__skillhub",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

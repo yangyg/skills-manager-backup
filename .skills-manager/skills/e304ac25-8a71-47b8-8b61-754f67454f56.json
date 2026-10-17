@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e304ac25-8a71-47b8-8b61-754f67454f56",
+  "path": "api-and-interface-design",
+  "path_key": "api-and-interface-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

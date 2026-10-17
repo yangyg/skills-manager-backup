@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "388ecf06-e4b0-4dd0-b4cd-1f624b5da049",
+  "path": "answer-me-with-html",
+  "path_key": "answer-me-with-html",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

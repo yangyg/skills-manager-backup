@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02e388a5-282e-4374-9928-9bc288f8d4f2",
+  "path": "ui-styling",
+  "path_key": "ui-styling",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

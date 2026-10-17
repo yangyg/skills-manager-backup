@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8b6529ed-ae70-47c3-b16c-f5622bc448a9",
+  "path": "code-simplification",
+  "path_key": "code-simplification",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

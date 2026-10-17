@@ -1,0 +1,20 @@
+{
+  "slug": "beatra-ai-video-studio",
+  "name": "视频生成·AI视频与图生视频工作室",
+  "version": "1.3.0",
+  "installedAt": 1790592068464,
+  "source": "skillhub",
+  "namespace": "beatra-ai",
+  "canonicalName": "@beatra-ai/beatra-ai-video-studio",
+  "iconSource": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/a4e49550-e527-4406-b761-c4f2e607b757.png",
+  "labels": {
+    "requires_api_key": "false"
+  },
+  "description_zh": "从一段镜头描述、一张图片、首尾帧、参考素材或已有视频出发，规划并制作短视频。Beatra AI视频工作室支持文生视频、图生视频、参考生视频、首尾帧视频、AI视频编辑和AI视频延长，覆盖产品视频、广告创意、社交短视频、AI空镜素材、转场、揭示和电影感概念镜头。交付后检查动作、主体稳定性、运镜、连续性与发布场景；如果请求或结果包含音频，也一并检查音频，再决定最小有效的修改、延长或重新生成。",
+  "description_en": "从一段镜头描述、一张图片、首尾帧、参考素材或已有视频出发，规划并制作短视频。Beatra AI视频工作室支持文生视频、图生视频、参考生视频、首尾帧视频、AI视频编辑和AI视频延长，覆盖产品视频、广告创意、社交短视频、AI空镜素材、转场、揭示和电影感概念镜头。交付后检查动作、主体稳定性、运镜、连续性与发布场景；如果请求或结果包含音频，也一并检查音频，再决定最小有效的修改、延长或重新生成。",
+  "installs": 110772,
+  "publisher_name": "beatra",
+  "installedContentHash": "sha256:a41379bbcd63440f11c1cb924f350b4e4bc1700414c354df9a1a29bebcaa87ef",
+  "iconLocalPath": "C:\\Users\\33225\\.workbuddy\\skills\\beatra-ai-video-studio__skillhub\\_icon.png",
+  "iconDownloadedFrom": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/a4e49550-e527-4406-b761-c4f2e607b757.png"
+}
