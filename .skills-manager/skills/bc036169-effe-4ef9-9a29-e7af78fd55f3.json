@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bc036169-effe-4ef9-9a29-e7af78fd55f3",
+  "path": "security-audit",
+  "path_key": "security-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "cloudflare/security-audit-skill/security-audit",
+    "subpath": "skills\\security-audit",
+    "branch": null
+  }
+}
